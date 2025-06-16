@@ -23,7 +23,9 @@ Through this Github organization, we make software and parts of software availab
         </a>
     </td>
     <td>
-      ...
+      <a href="https://github.com/OpenSourcePKG/vts">
+          <img src="https://raw.githubusercontent.com/OpenSourcePKG/.github/main/profile/vtslogo.png" alt="rbac-simple" width="250px" />
+        </a>
     </td>
   </tr>
 </table>

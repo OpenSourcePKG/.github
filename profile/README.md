@@ -15,7 +15,8 @@ Through this Github organization, we make software and parts of software availab
 
 ### Projects
 
-<table>
+<div align="center">
+  <table>
   <tr>
     <td >
         <a href="https://github.com/OpenSourcePKG/rbac-simple">
@@ -28,4 +29,14 @@ Through this Github organization, we make software and parts of software availab
         </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/OpenSourcePKG/findnow_tbplugin">
+          <img src="https://raw.githubusercontent.com/OpenSourcePKG/.github/main/profile/tbfindnowlogo.png" alt="rbac-simple" width="250px" />
+        </a>
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
+</div>

@@ -45,6 +45,9 @@ Through this Github organization, we make software and parts of software availab
         </a>
     </td>
     <td>
+    <a href="https://github.com/OpenSourcePKG/mozilla-webext-types">
+          <img src="https://github.com/OpenSourcePKG/.github/blob/main/profile/webextlogo.png" alt="mozilla-webext-types" width="250px" />
+        </a>
     </td>
   </tr>
 </table>

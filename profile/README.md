@@ -22,7 +22,7 @@ Through this Github organization, we make software and parts of software availab
 ![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Projects
+## Projects
 
 <div align="center">
   <table>
@@ -49,8 +49,9 @@ Through this Github organization, we make software and parts of software availab
   </tr>
 </table>
 </div>
+<br>
 
-# Supported Organizations
+## Supported Organizations
 
 <div align="center">
   <table>
@@ -65,4 +66,25 @@ Through this Github organization, we make software and parts of software availab
       cetaceans (whales and dolphins) and their marine habitat, as well as the study of cetaceans off La Gomera (Canary Islands).
     </td>
   </tr>
+  </table>
 </div>
+<br>
+
+## Team
+
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/Choppel">
+				<img src="https://avatars.githubusercontent.com/u/14126324?v=4" width="80" alt=""/>
+				<br /><sub><b>Choppel</b></sub>
+			</a>
+		</td>
+    <td align="center">
+			<a href="https://github.com/stefanwerfling">
+				<img src="https://avatars.githubusercontent.com/u/12471903?v=4" width="80" alt=""/>
+				<br /><sub><b>Stefan Werfling</b></sub>
+			</a>
+		</td>
+	</tr>
+</table>
